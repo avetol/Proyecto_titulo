@@ -1,0 +1,3 @@
+hola
+
+importante: para que se observen los diseños de fritzing, se requiere cargar las librearias necesarias o no se veran los componentes creados para el diseño de los esquemas.
